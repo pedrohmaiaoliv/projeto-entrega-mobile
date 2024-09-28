@@ -11,7 +11,7 @@ Este repositório é referente ao projeto da disciplina **Desenvolvimento Mobile
 ## Documentos do Projeto
 
 - **[Documento de Requisitos](https://docs.google.com/document/d/1QEYfo2O3kxw1DfpnGISUiQvwQFsYSwi2Wm2fTwZRKpQ/edit)**
-- **Protótipo no Figma**: (https://www.figma.com/design/VCleo6L7IVwpthcsBQpVvt/Desenvolvimento-Mobile?node-id=0-1&node-type=canvas&t=3wP3yqK9ehiij9G0-0)
+- **[Protótipo no Figma**](https://www.figma.com/design/VCleo6L7IVwpthcsBQpVvt/Desenvolvimento-Mobile?node-id=0-1&node-type=canvas&t=3wP3yqK9ehiij9G0-0)**
 
 ---
 
